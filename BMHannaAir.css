@@ -1,13 +1,13 @@
 /* 
-https://webfontworld.github.io/cafe24/Cafe24Dangdanghae.png
-https://webfontworld.github.io/cafe24/Cafe24Dangdanghae.css 
-https://wess.tistory.com/208
+https://webfontworld.github.io/woowahan/BMHannaAir.css
+https://webfontworld.github.io/woowahan/BMHannaAir.png
+https://wess.tistory.com/217
 */
 
 @font-face {
-    font-family: 'Cafe24Dangdanghae';
+    font-family: 'BMHannaAir';
     font-weight: normal; 
     font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webfontworld/cafe24/Cafe24Dangdanghae.woff2) format('woff2');
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/woowahan/BMHannaAir.woff2) format('woff2');
     font-display: swap;
 }
